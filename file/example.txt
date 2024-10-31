@@ -1,0 +1,3 @@
+Hello Saloxiddin!
+OOP fayllar bn ishlash
+Yangi talaba: Ali, Yosh: 20
